@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanniBatsilas
-- 👀 I’m interested in Programming
-- 🌱 I’m currently Studying Computational Sciences
-- 💞️ I’m looking to collaborate on TInteresting Projects
+- 👀 I’m interested in programming
+- 🌱 I’m currently studying Computational Sciences
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: janni.batsilas@gmail.com
 
 <!---
